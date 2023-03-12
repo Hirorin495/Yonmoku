@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">きのこたけのこ並べ</string>
+    <string name="title">きのこたけのこ並べ</string>
+    <string name="start">GAME START</string>
+    <string name="reset">RESET</string>
+    <string name="button">button</string>
+</resources>
